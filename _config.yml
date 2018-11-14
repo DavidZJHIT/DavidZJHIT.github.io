@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jian ZHANG / Personal Page"
 title_separator          : "-"
 name                     : &name "Jian ZHANG"
-description              : &description "davidisjianzhang@gmail.com"
+description              : &description "jianzhangisdavid@gmail.com"
 url                      : https://davidzjhit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidzjhit.github.io/davidzjhit.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jian ZHANG (张建)"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   bio              : "Personal Statement"
   location         : "P.R. China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "davidisjianzhang@gmail.com"
+  googlescholar    :
+  email            : "jianzhangisdavid@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "davidzjhit"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
