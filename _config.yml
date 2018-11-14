@@ -208,7 +208,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: patents
+      type: teaching
     values:
       layout: single
       author_profile: true
