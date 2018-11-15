@@ -1,8 +1,8 @@
 ---
-title: "#8. MOF-derived Zn-Mn mixed oxides@carbon hollow disks with robust hierarchical structure for high-performance lithium-ion batteries"
+title: "#5. MOF-derived Zn-Mn mixed oxides@carbon hollow disks with robust hierarchical structure for high-performance lithium-ion batteries"
 collection: publications
 excerpt: 'Authors: Dong Wang, Weiwei Zhou, Rui Zhang, Xiaoxiao Huang, Jinjue Zeng, Yanfang Mao, Chunyan Ding, **Jian Zhang**, Jinping Liu, Guangwu Wen'
-date: 2017-12-21
+date: 2018-01-05
 venue: 'Journal of Materials Chemistry A'
 
 ---
