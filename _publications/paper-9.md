@@ -2,7 +2,7 @@
 title: "#3. Ultra-light h-BCN architectures derived from new organic monomer with tunable electromagnetic wave absorption"
 collection: publications
 excerpt: 'Authors: Tao Zhang, **Jian Zhang (co-first author)**, Guangwu Wen, Bo Zhong, Long Xia, Xiaoxiao Huang, Hu Zhao, Luchang Qin'
-date: 2018-05-04
+date: 2018-09-31
 venue: 'Carbon'
 ---
 
