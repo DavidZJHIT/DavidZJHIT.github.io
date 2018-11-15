@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Enhanced electromagnetic wave absorption properties of laminated SiCNW-Cf/lithium–aluminum–silicate (LAS) composites"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
-excerpt: 'This paper is about the number 4. The number 5 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'hhH'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 4.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Authors: Long Xia, Xinyu Zhang, Yanan Yang, **Jian Zhang**, Bo Zhong, Tao Zhang, Huatao Wang'
+date: 2018-01-01
+venue: 'Journal of Alloys and Compounds'
 ---
-This paper is about the number 4. The number 5 is left for future work.
 
-[Download paper here](https://github.com/DavidZJHIT/DavidZJHIT.github.io/blob/master/files/1-4%E4%BD%9C%EF%BC%88%E6%9D%A8%E4%BA%9A%E6%A5%A0%EF%BC%89-%20Ceramics%20International.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 4." <i>Journal 1</i>. 1(3).
+[Download paper here](https://doi.org/10.1016/j.jallcom.2018.03.044)       
+DOI: 10.1016/j.jallcom.2018.03.044       
+*Abstract*       
+The SiC nanowires have been in situ grown on the carbon fabric by thermal evaporation. Furthermore, to reduce the reflection of electromagnetic (EM) wave on the surface of EM wave absorbents and to improve the impedance matching, the laminated SiCNW-Cf/lithium-aluminum-silicate (LAS) composites were prepared through slurry impregnation and hot-pressing sintering methods using the fabrics as reinforced body. The as-prepared samples were characterized by X-ray diffraction (XRD), Raman spectra, field emission scanning electron microscope (FESEM) and high-resolution transmission electron microscope (HRTEM). The formation mechanism of SiC nanowires was specified. The SiCNW-Cf/LAS composites in this study exhibited superior EM wave absorption abilities and good impedance match in the frequency range of 2–18 GHz compared with SiCNW-Cf. A minimum reflection loss (RL) value of −37.8 dB was observed at 7.2 GHz with absorber thickness of only 3 mm. Moreover, the absorption bandwidth for RL less than −10 dB was 4.6 GHz (13.4 GHz - 18 GHz) when the absorber thickness decreased to 1.5 mm. A possible wave absorbing mechanism was discussed. This study proposed a facile method to fabricate a lightweight and broadband material with enhanced EM wave absorption performance.

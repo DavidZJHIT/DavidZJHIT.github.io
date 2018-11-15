@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Controllable synthesis of porous CxNy nanofibers with enhanced electromagnetic wave absorption property"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Authors: Tao Zhang, Pengyu Zhou, Bo Xiao, **Jian Zhang**, Guangwu Wen, Bo Zhong, Long Xia'
+date: 2017-08-15
+venue: 'Ceramics International'
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://doi.org/10.1016/j.ceramint.2017.03.157)      
+DOI: 10.1016/j.ceramint.2017.03.157       
+*Abstract*       
+Porous CxNy nanofibers are controllably synthesized by a simple two-step method. The prepared samples possess uniform micropores and a chemical composition of C0.73 N0.27 with a surface area of 329 m2 g−1. The obtained CxNy nanofibers exhibit remarkable electromagnetic (EM) wave absorption properties when compared with conventional one-dimensional carbon materials. The minimum reflection loss (RL) reaches −36 dB at 2.7 GHz when the ratio of the CxNy absorbent added in paraffin matrix is only 1:3. The bandwidth of the RL below −10 dB covers 7.7 GHz (8.1–15.8 GHz) at the sample thickness of 2.5 mm. A possible EM wave loss mechanism was proposed in detail. The multiple reflection and dielectric loss could govern the excellent EM absorption leading the product to a probable application in stealth materials.
