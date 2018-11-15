@@ -1,5 +1,5 @@
 ---
-title: "#3. Facile approach to fabricate BCN/Fex(B/C/N)y nano-architectures with enhanced electromagnetic wave absorption"
+title: "#5. Facile approach to fabricate BCN/Fex(B/C/N)y nano-architectures with enhanced electromagnetic wave absorption"
 collection: publications
 excerpt: 'Authors: Tao Zhang, **Jian Zhang**, Heng Luo, Lianwen Deng, Pengyu Zhou, Guangwu Wen, Long Xia, Bo Zhong, Haibin Zhang'
 date: 2018-02-20
