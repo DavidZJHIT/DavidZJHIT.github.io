@@ -1,5 +1,5 @@
 ---
-title: "Crystal structure and wave-transparent properties of lithium aluminum silicate glass-ceramics"
+title: "#5. Crystal structure and wave-transparent properties of lithium aluminum silicate glass-ceramics"
 collection: publications
 excerpt: 'Authors: Long Xia, Yanan Yang, Xinyu Zhang, **Jian Zhang**, Bo Zhong, Tao Zhang, Huatao Wang, Guangwu Wen'
 date: 2018-04-25
