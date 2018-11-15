@@ -6,7 +6,7 @@ date: 2018-05-04
 venue: 'Carbon'
 ---
 
-[Download paper here](https://doi.org/10.1016/j.carbon.2018.05.001)\n
+[Download paper here](https://doi.org/10.1016/j.carbon.2018.05.001) /n
 DOI: 10.1016/j.carbon.2018.05.001\n
 Main results are highlighted as follows:\n
 i.	The h-BCN models have been simulated and calculated, indicating these information with the increasing ratio of N in terms of: (1) the increase of the real part (ɛʺ) and the imaginary part (ɛʹ) of the complex permittivity (ɛr = ɛʹ + ɛʺ) at the corresponding EMW range (2-18 GHz), (2) the increase of the electron conductivity (σ) of h-BCN which can be deduced by the changes of the band structures and the densities of states (DOS). By virtue of these features, predictably, the EMW absorption properties of h-BCN can be pretty good and tunable to some degree.\n
