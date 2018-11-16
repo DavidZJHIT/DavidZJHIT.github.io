@@ -47,7 +47,8 @@ Working Experiences
 * **Laboratory Assistant in School of MSE, HIT (*05/2016 - 05/2017*)**      
 *Fund: National Natural Science Foundation of China (Grant No. 51302049, 91326102)*
   *	Taught students to synthesize BCN precursor by cross-linking reaction in water baths;       
-  *	Demonstrated a predesigned annealing mode to collect porous BCN ceramics with low density and excellent EMW absorption performance.      
+  *	Demonstrated a predesigned annealing mode to collect porous BCN ceramics with low density and excellent EMW absorption performance.
+
 ---
 
 
@@ -61,7 +62,8 @@ Social Works (volunteer services & activities)
 
 * **Weihai iTU Long Distance Triathlon Series Event, Leader of Volunteers (*09/2016*)**
   *	Served as a team leader of Local Organization Commitment (LOC) volunteers;
-  *	Helped athletes to be familiar with the competition terrain in the swimming area, running area and cycling area.        
+  *	Helped athletes to be familiar with the competition terrain in the swimming area, running area and cycling area.       
+
 ---
 
 
@@ -70,6 +72,7 @@ Skills
  * **Analytical Instruments**: (FE-)SEM, FT-IR, Raman, XRD, Vector Network Analyzer, Thermal Gravimetric Analyzer.
  * **3D/2D Software**: 3Ds Max, SolidWorks, Catia, Pro/E, Auto CAD, Photoshop, Adobe Illustrator.
  * **Specialized Software**: Jade, Origin, Gatan Digital Micrograph, Materials Studio, ChemBioOffice, Visual C++.      
+ 
  ---    
 
 Referees
