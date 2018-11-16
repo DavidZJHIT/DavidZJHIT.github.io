@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian ZHANG / Personal Page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jian ZHANG"
 description              : &description "jianzhangisdavid@gmail.com"
