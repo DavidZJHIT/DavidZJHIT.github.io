@@ -15,9 +15,9 @@ redirect_from:
 ## _<center>"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"</center>_ ##               
 ***
 
-<center>Hello! I'm Jian ZHANG.</center>  
+<center>Hello! I'm Jian ZHANG. Nice to meet you here!</center>  
 ***    
-<center>You can find out more about me by **CLICKING** on the buttons above!</center>     
+<center>You can find out more about me by</center> **CLICKING** <center>on the buttons above!</center>     
 ***        
 
 
