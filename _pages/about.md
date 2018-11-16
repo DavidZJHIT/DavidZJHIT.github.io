@@ -22,4 +22,4 @@ redirect_from:
 
 
 
-### Thank You! ###
+### <center>Thank You!</center> ###
