@@ -35,7 +35,8 @@ Research Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
----
+---      
+
 Working Experiences
 ======
 * **Cofounder of a Startup Company in PR China (*06/2016 - 05/2017*)**
@@ -69,7 +70,8 @@ Skills
  * **Analytical Instruments**: (FE-)SEM, FT-IR, Raman, XRD, Vector Network Analyzer, Thermal Gravimetric Analyzer.
  * **3D/2D Software**: 3Ds Max, SolidWorks, Catia, Pro/E, Auto CAD, Photoshop, Adobe Illustrator.
  * **Specialized Software**: Jade, Origin, Gatan Digital Micrograph, Materials Studio, ChemBioOffice, Visual C++.
----
+---    
+
 Referees
 ======
 * [<font color="blue">Associate Prof. Tao Zhang</font>](http://yjs.hitwh.edu.cn/Html/?990.html), Department of MSE, HIT, China. E-mail: [<font color="blue">zhang.tao@hit.edu.cn</font>](zhang.tao@hit.edu.cn)
