@@ -23,7 +23,8 @@ redirect_from:
 
 
 
-
+---
+---
 # Social Works (volunteer services & activities)
 ## Volunteer Service Center of HIT at Weihai, Member (*03/2015 - 03/2016*)
 *	Served as a poster designer and a maintainer of website and official account;
