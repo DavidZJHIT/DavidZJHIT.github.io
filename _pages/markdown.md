@@ -9,6 +9,16 @@ redirect_from:
 
 ## Locations of key files/directories
 
+##Cofounder of a Startup Company in PR China
+*	Worked as the Chief Operating Officer (COO);       
+*	Participated in roadshows to raise startup funds for the company;       
+*	Made a series of decisions in daily management and operation.
+##Laboratory Assistant in School of MSE, HIT     
+###Fund: National Natural Science Foundation of China (Grant No. 51302049, 91326102)       
+*	Taught students to synthesize BCN precursor by cross-linking reaction in water baths;       
+*	Demonstrated a predesigned annealing mode to collect porous BCN ceramics with low density and excellent EMW absorption performance.
+
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
