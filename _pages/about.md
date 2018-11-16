@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-## <center>*"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"*</center> ##               
+## <center>_"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"_</center> ##               
 
 
 <center>Hello! I'm Jian ZHANG.</center>      
