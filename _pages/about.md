@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WECOME TO MY "
+title: "<center>WECOME TO MY<center> "
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-## <center><font color=grey>*"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"*</font></center> ##               
+## <center> <font color=#A52A2A> *"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"* </font> </center> ##               
 
 
 Hello! I'm Jian Zhang. You can find out more about me by **clicking on the buttons above**!            
