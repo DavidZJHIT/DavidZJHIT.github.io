@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [Download paper here](https://doi.org/10.1016/j.jallcom.2018.03.044)"
 permalink: /cv/
 author_profile: true
 redirect_from:
