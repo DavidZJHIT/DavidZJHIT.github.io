@@ -12,8 +12,8 @@ main:
   - title: "Working Experiences"
     url: /markdown/
 
-  - title: "Supplement"
-    url: /portfolio/
+#  - title: "Supplement"
+#    url: /portfolio/
 
   - title: "CV"
     url: /cv/
