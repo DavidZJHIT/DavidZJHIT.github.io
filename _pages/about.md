@@ -16,7 +16,7 @@ redirect_from:
 
 
 <center>Hello! I'm Jian ZHANG.</center>      
-<center>You can find out more about me by **clicking on the buttons above**!</center>            
+<center>You can find out more about me by __clicking on the buttons above__!</center>            
 
 
 
