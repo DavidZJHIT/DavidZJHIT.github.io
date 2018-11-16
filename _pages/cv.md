@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-   <word color="blue">***[Download CV.PDF](https://drive.google.com/open?id=1QmvMk12VGXvdbYGn6vX-5Vgz_UO60m6V)***</font>       
-
+***[Download CV.PDF](https://drive.google.com/open?id=1QmvMk12VGXvdbYGn6vX-5Vgz_UO60m6V)***
 
 Education
 ======
