@@ -1,5 +1,4 @@
 ---
-permalink: /Working Experience/
 title: "Working Experiences"
 author_profile: true
 redirect_from:
