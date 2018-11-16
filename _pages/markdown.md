@@ -23,8 +23,8 @@ redirect_from:
 
 
 
-               
-# VOLUNTEER SERVICES & ACTIVITIES
+
+# Social Works (volunteer services & activities)
 ## Volunteer Service Center of HIT at Weihai, Member (*03/2015 - 03/2016*)
 *	Served as a poster designer and a maintainer of website and official account;
 *	Organized some public service activities, such as helping the aged in gerocomium, organizing volunteers to teach in China's rural areas.
