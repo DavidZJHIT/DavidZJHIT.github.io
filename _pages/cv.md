@@ -56,7 +56,7 @@ Social Works (volunteer services & activities)
   *	Served as a poster designer and a maintainer of website and official account;
   *	Organized some public service activities, such as helping the aged in gerocomium, organizing volunteers to teach in China's rural areas.
 
-* ** Weihai iTU Long Distance Triathlon Series Event, Leader of Volunteers (*09/2016*)**
+* **Weihai iTU Long Distance Triathlon Series Event, Leader of Volunteers (*09/2016*)**
   *	Served as a team leader of Local Organization Commitment (LOC) volunteers;
   *	Helped athletes to be familiar with the competition terrain in the swimming area, running area and cycling area.
 
@@ -64,6 +64,6 @@ Social Works (volunteer services & activities)
 
 Skills
 ======
- * Analytical Instruments: (FE-)SEM, FT-IR, Raman, XRD, Vector Network Analyzer, Thermal Gravimetric Analyzer.
- * 3D/2D Software: 3Ds Max, SolidWorks, Catia, Pro/E, Auto CAD, Photoshop, Adobe Illustrator.
- * Specialized Software: Jade, Origin, Gatan Digital Micrograph, Materials Studio, ChemBioOffice, Visual C++.
+ * **Analytical Instruments**: (FE-)SEM, FT-IR, Raman, XRD, Vector Network Analyzer, Thermal Gravimetric Analyzer.
+ * **3D/2D Software**: 3Ds Max, SolidWorks, Catia, Pro/E, Auto CAD, Photoshop, Adobe Illustrator.
+ * **Specialized Software**: Jade, Origin, Gatan Digital Micrograph, Materials Studio, ChemBioOffice, Visual C++.
