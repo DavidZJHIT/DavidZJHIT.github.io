@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [Download paper here](https://doi.org/10.1016/j.jallcom.2018.03.044)"
+title: "CV "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Download CV.PDF](https://doi.org/10.1016/j.jallcom.2018.03.044)
 
 Education
 ======
