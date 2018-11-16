@@ -72,6 +72,6 @@ Skills
 
 Referees
 ======
-* **Associate Prof. Tao Zhang**, Department of MSE, HIT, China. E-mail: [zhang.tao@hit.edu.cn](zhang.tao@hit.edu.cn)
+* **Associate [<font color="blue">Prof. Tao Zhang</font>](http://yjs.hitwh.edu.cn/Html/?990.html)**, Department of MSE, HIT, China. E-mail: [zhang.tao@hit.edu.cn](zhang.tao@hit.edu.cn)
 * **Prof. Guangwu Wen**, Department of MSE, HIT, China. E-mail: [g.wen@hit.edu.cn](g.wen@hit.edu.cn)
 *	**Prof. Yan Song**, Department of MSE, HIT, China. E-mail: [sy@hitwh.edu.cn](sy@hitwh.edu.cn)
