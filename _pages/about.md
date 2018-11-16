@@ -13,10 +13,10 @@ redirect_from:
 
 
 ## <center>_"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"_</center> ##               
-
+***
 
 <center>Hello! I'm Jian ZHANG.</center>      
-<center>You can find out more about me by __clicking on the buttons above__!</center>            
+<center>You can find out more about me by CLICKING on the buttons above!</center>            
 
 
 
