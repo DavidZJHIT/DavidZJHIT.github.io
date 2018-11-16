@@ -41,7 +41,7 @@ Working Experiences
   *	Participated in roadshows to raise startup funds for the company;       
   *	Made a series of decisions in daily management and operation.      
 
-* **Laboratory Assistant in School of MSE, HIT (*05/2016 - 05/2017*)**
+* **Laboratory Assistant in School of MSE, HIT (*05/2016 - 05/2017*)**      
 *Fund: National Natural Science Foundation of China (Grant No. 51302049, 91326102)*
   *	Taught students to synthesize BCN precursor by cross-linking reaction in water baths;       
   *	Demonstrated a predesigned annealing mode to collect porous BCN ceramics with low density and excellent EMW absorption performance.
