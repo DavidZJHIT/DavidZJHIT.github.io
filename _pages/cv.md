@@ -72,6 +72,6 @@ Skills
 
 Referees
 ======
-* **[<font color="blue">Associate Prof. Tao Zhang</font>](http://yjs.hitwh.edu.cn/Html/?990.html)**, Department of MSE, HIT, China. E-mail: [<font color="blue">zhang.tao@hit.edu.cn</font>](zhang.tao@hit.edu.cn)
-* **[<font color="blue">Prof. Guangwu Wen</font>](http://homepage.hit.edu.cn/pages/wenguangwu)**, Department of MSE, HIT, China. E-mail: [<font color="blue">g.wen@hit.edu.cn</font>](g.wen@hit.edu.cn)
-*	**[<font color="blue">Prof. Yan Song</font>](http://homepage.hit.edu.cn/pages/yansong)**, Department of MSE, HIT, China. E-mail: [<font color="blue">sy@hitwh.edu.cn</font>](sy@hitwh.edu.cn)
+* [<font color="blue">Associate Prof. Tao Zhang</font>](http://yjs.hitwh.edu.cn/Html/?990.html), Department of MSE, HIT, China. E-mail: [<font color="blue">zhang.tao@hit.edu.cn</font>](zhang.tao@hit.edu.cn)
+* [<font color="blue">Prof. Guangwu Wen</font>](http://homepage.hit.edu.cn/pages/wenguangwu), Department of MSE, HIT, China. E-mail: [<font color="blue">g.wen@hit.edu.cn</font>](g.wen@hit.edu.cn)
+*	[<font color="blue">Prof. Yan Song</font>](http://homepage.hit.edu.cn/pages/yansong), Department of MSE, HIT, China. E-mail: [<font color="blue">sy@hitwh.edu.cn</font>](sy@hitwh.edu.cn)
