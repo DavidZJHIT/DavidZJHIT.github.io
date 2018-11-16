@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 ======
-* B. Eng., Dept. of Materials Science and Engineering (MSE), School of MSE, Harbin Institute of Technology (HIT)
+* B. Eng., Dept. of Materials Science and Engineering (MSE), School of MSE, Harbin Institute of Technology (HIT)      
+
 ---
 
 Publications
@@ -72,7 +73,7 @@ Skills
  * **Analytical Instruments**: (FE-)SEM, FT-IR, Raman, XRD, Vector Network Analyzer, Thermal Gravimetric Analyzer.
  * **3D/2D Software**: 3Ds Max, SolidWorks, Catia, Pro/E, Auto CAD, Photoshop, Adobe Illustrator.
  * **Specialized Software**: Jade, Origin, Gatan Digital Micrograph, Materials Studio, ChemBioOffice, Visual C++.      
- 
+
  ---    
 
 Referees
