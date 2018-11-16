@@ -15,6 +15,6 @@ Hello! I'm Jian Zhang.
 *## "Good morning, and in case I don't see you, good afternoon, good evening, and good night!" ##*               
 
 
-You can find out more about me by clicking on the button above!            
+You can find out more about me by **clicking on the button above**!            
 
-Thank You!
+###Thank You!###
