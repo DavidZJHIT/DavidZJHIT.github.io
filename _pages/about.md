@@ -18,7 +18,7 @@ redirect_from:
 <center>Hello! I'm Jian ZHANG. Nice to meet you here!</center>  
 ***    
 <center>You can find out more about me by CLICKING on the buttons above!</center>
-<center>If you have any questions, please don't hesitate to let me know.  </center>   
+<center>If you have any questions, please don't hesitate to let me know.</center>   
 ***        
 
 
