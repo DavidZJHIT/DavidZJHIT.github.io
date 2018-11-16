@@ -14,28 +14,28 @@ redirect_from:
 Education
 ======
 * B. Eng., Dept. of Materials Science and Engineering (MSE), School of MSE, Harbin Institute of Technology (HIT)
-
+---
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+---
 
 Patents
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
+---
 
 Research Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+---
 Working Experiences
 ======
 * **Cofounder of a Startup Company in PR China (*06/2016 - 05/2017*)**
@@ -47,7 +47,7 @@ Working Experiences
 *Fund: National Natural Science Foundation of China (Grant No. 51302049, 91326102)*
   *	Taught students to synthesize BCN precursor by cross-linking reaction in water baths;       
   *	Demonstrated a predesigned annealing mode to collect porous BCN ceramics with low density and excellent EMW absorption performance.
-
+---
 
 
 
@@ -61,7 +61,7 @@ Social Works (volunteer services & activities)
 * **Weihai iTU Long Distance Triathlon Series Event, Leader of Volunteers (*09/2016*)**
   *	Served as a team leader of Local Organization Commitment (LOC) volunteers;
   *	Helped athletes to be familiar with the competition terrain in the swimming area, running area and cycling area.
-
+---
 
 
 Skills
@@ -69,7 +69,7 @@ Skills
  * **Analytical Instruments**: (FE-)SEM, FT-IR, Raman, XRD, Vector Network Analyzer, Thermal Gravimetric Analyzer.
  * **3D/2D Software**: 3Ds Max, SolidWorks, Catia, Pro/E, Auto CAD, Photoshop, Adobe Illustrator.
  * **Specialized Software**: Jade, Origin, Gatan Digital Micrograph, Materials Studio, ChemBioOffice, Visual C++.
-
+---
 Referees
 ======
 * [<font color="blue">Associate Prof. Tao Zhang</font>](http://yjs.hitwh.edu.cn/Html/?990.html), Department of MSE, HIT, China. E-mail: [<font color="blue">zhang.tao@hit.edu.cn</font>](zhang.tao@hit.edu.cn)
