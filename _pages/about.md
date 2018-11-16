@@ -12,13 +12,14 @@ redirect_from:
 
 
 
-## <center> <font color=#A52A2A>*"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"* </font> </center> ##               
+## <center>*"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"*</center> ##               
 
 
-<font color=#A52A2A>Hello! I'm Jian Zhang.</font>    
+<center>Hello! I'm Jian ZHANG.</center>      
+<center>You can find out more about me by **clicking on the buttons above**!</center>            
 
 
 
- You can find out more about me by **clicking on the buttons above**!            
+
 
 ### Thank You! ###
