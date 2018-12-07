@@ -1,5 +1,5 @@
 ---
-title: "#5. Facile approach to fabricate BCN/Fe<sub>x</sub>(B/C/N)<sub>y</sub> nano-architectures with enhanced electromagnetic wave absorption"
+title: "#6. Facile approach to fabricate BCN/Fe<sub>x</sub>(B/C/N)<sub>y</sub> nano-architectures with enhanced electromagnetic wave absorption"
 collection: publications
 excerpt: 'Authors: Tao Zhang, **Jian Zhang**, Heng Luo, Lianwen Deng, Pengyu Zhou, Guangwu Wen, Long Xia, Bo Zhong, Haibin Zhang'
 date: 2018-02-20

@@ -1,5 +1,5 @@
 ---
-title: "#9. Controllable synthesis of porous C<sub>x</sub>N<sub>y</sub> nanofibers with enhanced electromagnetic wave absorption property"
+title: "#10. Controllable synthesis of porous C<sub>x</sub>N<sub>y</sub> nanofibers with enhanced electromagnetic wave absorption property"
 collection: publications
 excerpt: 'Authors: Tao Zhang, Pengyu Zhou, Bo Xiao, **Jian Zhang**, Guangwu Wen, Bo Zhong, Long Xia'
 date: 2017-08-15

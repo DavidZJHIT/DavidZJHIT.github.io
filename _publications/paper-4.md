@@ -1,5 +1,5 @@
 ---
-title: "#7. Enhanced electromagnetic wave absorption properties of laminated SiC<sub>NW</sub>-C<sub>f</sub>/lithium–aluminum–silicate (LAS) composites"
+title: "#8. Enhanced electromagnetic wave absorption properties of laminated SiC<sub>NW</sub>-C<sub>f</sub>/lithium–aluminum–silicate (LAS) composites"
 collection: publications
 excerpt: 'Authors: Long Xia, Xinyu Zhang, Yanan Yang, **Jian Zhang**, Bo Zhong, Tao Zhang, Huatao Wang'
 date: 2018-01-10

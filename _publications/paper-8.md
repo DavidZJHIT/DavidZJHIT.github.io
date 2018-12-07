@@ -1,5 +1,5 @@
 ---
-title: "#4. In-situ growth of Fe/Fe<sub>3</sub>O<sub>4</sub>/C hierarchical architectures with wide-band electromagnetic wave absorption"
+title: "#5. In-situ growth of Fe/Fe<sub>3</sub>O<sub>4</sub>/C hierarchical architectures with wide-band electromagnetic wave absorption"
 collection: publications
 excerpt: 'Authors:	Xiaohuan Meng, **Jian Zhang(co-first author)**, Li Xiong, Tao Zhang, Hu Zhao, Bo Zhong, Long Xia, Xiaoxiao Huang, Guangwu Wen'
 date: 2018-08-31
